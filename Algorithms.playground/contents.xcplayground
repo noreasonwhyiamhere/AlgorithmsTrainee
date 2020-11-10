@@ -4,5 +4,6 @@
         <page name='Second'/>
         <page name='One'/>
         <page name='Sudoku valid'/>
+        <page name='Sudoku solver'/>
     </pages>
 </playground>
