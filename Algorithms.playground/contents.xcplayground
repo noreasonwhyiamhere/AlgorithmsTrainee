@@ -5,5 +5,6 @@
         <page name='One'/>
         <page name='Sudoku valid'/>
         <page name='Sudoku solver'/>
+        <page name='BTStoGreaterSum'/>
     </pages>
 </playground>
