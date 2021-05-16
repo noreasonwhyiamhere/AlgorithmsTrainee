@@ -6,5 +6,9 @@
         <page name='Sudoku valid'/>
         <page name='Sudoku solver'/>
         <page name='BTStoGreaterSum'/>
+        <page name='LengthOfLongestSubstring'/>
+        <page name='ProductExceptSelf'/>
+        <page name='LRUCache'/>
+        <page name='PerfectSquares'/>
     </pages>
 </playground>
